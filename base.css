@@ -11,10 +11,14 @@ h3.naz{
 }
 
 table{
-	width:1200px;
+	/*width:1200px;*/
 	margin:auto;
 	padding:10px;
 	border-style:outset;
+}
+
+td {
+	text-align: center;
 }
 
 h1{
